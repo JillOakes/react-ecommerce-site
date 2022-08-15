@@ -1,3 +1,16 @@
+# PicSome E-Commerce Site
+PicSome is a mock photography store created as the capstone project for Scrimba's Advanced React course.
+Users can "favorite" photos and add them to a shopping cart.
+The shopping cart tallies the total cost and pretends to process the transaction.
+
+This project uses React v18.2.0, React Router v6.3.0, Prop-Types v15.8.1, Context, Remix Icons v2.5.0, and a custom Hover hook.
+
+![PicSome01](https://user-images.githubusercontent.com/108361750/184632980-f7c76c21-3507-4169-b90b-94d32ff706c4.PNG)
+
+![PicSome02](https://user-images.githubusercontent.com/108361750/184633005-f68689d6-ec91-4354-a040-16c4a9f37a62.PNG)
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
